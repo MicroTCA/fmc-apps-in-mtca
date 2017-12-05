@@ -66,9 +66,6 @@ The board is licensed under [CERN Open Hardware License](https://www.ohwr.org/pr
 Hardware design files:
 [https://github.com/lnls-dig/fmc-5POF-hw](https://github.com/lnls-dig/fmc-5POF-hw)
 
-Software library:
-[https://github.com/lnls-dig/halcs](https://github.com/lnls-dig/halcs)
-
 
 ### FMC-Pico-1M4
 
