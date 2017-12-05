@@ -1,5 +1,7 @@
 # AFC
 
+![AFC](afc.png)
+
 Designed by: WUT-ISE and LNLS
 
 Commercially available: Creotech
@@ -33,6 +35,8 @@ The AFC features a cost-effective Xilinx Artix-7 FPGA thus making it especially 
 
 ### FMC ADC 250M 16b 4cha
 
+![FMC ADC 250M](../../mezzanines/fmc-adc-250m-16b-4ch/fmcadc250m.png)
+
 The FMC ADC 250M 16b 4cha is a 4-channel RF signal digitizer with the following main features:
 
 * VITA 57.1 compliant - high pin count (HPC) mezzanine
@@ -59,6 +63,8 @@ Software library:
 
 ### FMC POF
 
+![FMC POF](../../mezzanines/fmc-5-pof/fmcpof.png)
+
 The FMC POF is a 5-channel plastic optical fiber receiver/transmitter low pin count FMC mezzanine. Each channel can be assembled as receiver or transmitter individually.
 
 The board is licensed under [CERN Open Hardware License](https://www.ohwr.org/projects/cernohl/wiki).
@@ -68,6 +74,8 @@ Hardware design files:
 
 
 ### FMC-Pico-1M4
+
+![FMC Pico](../../mezzanines/fmc-pico-1m4/fmcpico1m4.png)
 
 The FMC-Pico-1M4 is a low pin count FMC card that allows digitizing bipolar currents up to 1 mA with high resolution and low drift for current sources floating up to +/- 300 V.
 
