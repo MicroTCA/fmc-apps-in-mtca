@@ -1,4 +1,4 @@
-# AFC
+# AMC FMC Carrier (AFC)
 
 ![AFC](afc.png)
 
@@ -25,7 +25,8 @@ The AFC features a cost-effective Xilinx Artix-7 FPGA thus making it especially 
 * White Rabbit timing system compatibility
 * Temperature, voltage and current monitoring for critical power buses
 * Stand-alone power connector
-* Mini-USB connected to the IPMI processor
+* Micro-USB connected to the IPMI processor
+* Micro-USB connected to the FPGA
 * SATA connector for Port2, Port3 with possibility of switching to FPGA MGT
 * MGT connected to FMC1, FMC2, Fat Pipe 1, Fat Pipe 2 (optional), Port0, Port1, Port2 (optional), Port3 (optional), RTM (optional)
 * EEPROM with MAC and unique ID
